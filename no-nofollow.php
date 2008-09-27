@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: no-nofollow
-Plugin URI: http://it-serie.de/plugin/no-nofollow
+Plugin URI: http://wordpress.org/extend/plugins/no-nofollow/
 Description: Removes the relation=nofollow attribute for links. Needs no configuration.
 Version: 0.8.15
 Author: hgn
